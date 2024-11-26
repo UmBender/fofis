@@ -1,0 +1,2 @@
+make dev
+./main-dev
